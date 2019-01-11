@@ -43,7 +43,7 @@ int main()
     cin>>start_state;
     cout<<"No of final states:: ";
     cin>>no_of_final_states;
-    cout<<"Final State are:: ";
+    cout<<"Final States are:: ";
     for(int i=0;i<no_of_final_states;i++)
         cin>>final_state[i];
 
